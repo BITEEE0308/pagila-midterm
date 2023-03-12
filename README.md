@@ -4,7 +4,7 @@
 
 Sunday, 12 March at midnight.
 
-You are not timed on the midterm, and may stop and restart it as many times as you'd like.
+You are not timed on the midterm, and may stop and restart it as many times as you would like.
 If you choose to do so, please be mindful of the collaboration policy.
 
 **Collaboration Policy:**
